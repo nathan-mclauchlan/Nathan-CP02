@@ -1,0 +1,24 @@
+{
+  "name": "Nathan-CP02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-mclauchlan/Nathan-CP02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-mclauchlan/Nathan-CP02/issues"
+  },
+  "homepage": "https://github.com/nathan-mclauchlan/Nathan-CP02#readme",
+  "dependencies": {
+    "eslint": "^7.23.0",
+    "node": "^15.12.0"
+  }
+}
